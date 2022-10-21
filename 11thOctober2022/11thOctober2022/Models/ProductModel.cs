@@ -18,6 +18,6 @@ namespace _11thOctober2022.Models
 
         [DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         [DataType(DataType.Date)]
-        public DateTime Expdate { get; set; }
+        public DateTime /Expdate { get; set; }
     }
 }

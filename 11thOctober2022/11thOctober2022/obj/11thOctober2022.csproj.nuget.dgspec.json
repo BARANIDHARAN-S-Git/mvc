@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj": {}
+    "C:\\Done\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj": {
+    "C:\\Done\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj",
+        "projectUniqueName": "C:\\Done\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj",
         "projectName": "11thOctober2022",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj",
+        "projectPath": "C:\\Done\\vs\\11thOctober2022\\11thOctober2022\\11thOctober2022.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\vs\\11thOctober2022\\11thOctober2022\\obj\\",
+        "outputPath": "C:\\Done\\vs\\11thOctober2022\\11thOctober2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
